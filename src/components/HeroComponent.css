@@ -1,0 +1,14 @@
+.hero {
+    background: #464343;
+}
+
+
+.hero img {
+    max-width: 100%;
+}
+
+.hero-text {
+    font-family: Inter;
+    font-size: 20px;
+    text-align: left!important;
+}

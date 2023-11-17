@@ -1,0 +1,11 @@
+.header img {
+  width: 102px;
+  height: 124px;
+}
+
+
+.header a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: black;
+}
